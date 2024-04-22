@@ -1,0 +1,28 @@
+h2 {
+    background-color:rgba(247, 247, 0, 0.24);
+}
+
+h3{
+    background-color: rgba(248, 43, 43, 0.178);
+    border-radius: 20%;
+    text-align: left;
+    text-indent: 40%;
+}
+
+img {
+    height: auto;
+    width: 350px;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgba(219, 206, 187, 0.753);   
+}
+
+p {
+    text-indent: 2%;
+}
+
+li .inside {
+    font-style: italic;
+}
