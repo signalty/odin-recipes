@@ -1,0 +1,16 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgba(219, 206, 187, 0.753);   
+}
+
+h1{
+    text-align: center;
+    margin: 30px auto 30px auto;
+
+}
+
+li {
+    list-style-position: inside;
+    text-align: center;
+}
+
